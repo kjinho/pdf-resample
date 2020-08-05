@@ -15,7 +15,7 @@ If necessary, modify the default locations for `exiftool` and `convert`.
 ## Usage
 
 ```
-pdf-resample [ <option> ... ] <infile> <outfile>
+pdf-resample.rkt [ <option> ... ] <infile> <outfile>
   uses imagemagick to resample a given PDF <infile> into PDF <outfile>
 
  where <option> is one of
